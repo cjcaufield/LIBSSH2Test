@@ -1,3 +1,3 @@
 # LIBSSH2Test
 
-Reproduces linker errors with the libssh2 pod and an OSX framework target.
+Demonstation of link errors with an OSX framework target and the libssh2 CocoaPod.
