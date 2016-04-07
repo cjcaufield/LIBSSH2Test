@@ -1,0 +1,15 @@
+PODS:
+  - libssh2 (1.4.3):
+    - OpenSSL
+  - OpenSSL (1.0.207)
+
+DEPENDENCIES:
+  - libssh2 (~> 1.4)
+
+SPEC CHECKSUMS:
+  libssh2: 68fdd5a13f9d4e991d76bdc790bcb24d47aa4f75
+  OpenSSL: 26eb46b2836c0dade24fa53276b552f14c6eece1
+
+PODFILE CHECKSUM: 859ffeb207fffed5470dada8dbb4b84b4832ffb7
+
+COCOAPODS: 1.0.0.beta.6
