@@ -6,6 +6,7 @@ This is a minimal project with no modifications.  It includes a C++ header and s
 
 Here are the errors:
 
+```
 Undefined symbols for architecture x86_64:
   "_EVP_aes_128_ctr", referenced from:
       _libssh2_crypt_method_aes128_ctr in libssh2.a(crypt.o)
@@ -18,3 +19,4 @@ Undefined symbols for architecture x86_64:
      (maybe you meant: __libssh2_EVP_aes_256_ctr)
 ld: symbol(s) not found for architecture x86_64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
+```
